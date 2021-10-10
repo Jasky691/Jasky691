@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game dev and Level Design
 - 🌱 I’m currently learning C#, Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me write to my vk "https://vk.com/id672363267".
 
 <!---
 Jasky691/Jasky691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
